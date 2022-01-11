@@ -151,7 +151,9 @@ ex1：
 $$ f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right) $$
 ```
 
-$$ f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right) $$ 5. 開方
+$$ f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right) $$ 
+
+5. 開方
 \sqrt [根指數，省略時為 2] {被開方數} 輸入開方。
 
 ```
